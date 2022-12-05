@@ -1,0 +1,14 @@
+D:\Learning To Code\C#\Projects\Assignment 2\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.exe
+D:\Learning To Code\C#\Projects\Assignment 2\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.deps.json
+D:\Learning To Code\C#\Projects\Assignment 2\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.runtimeconfig.json
+D:\Learning To Code\C#\Projects\Assignment 2\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.runtimeconfig.dev.json
+D:\Learning To Code\C#\Projects\Assignment 2\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.dll
+D:\Learning To Code\C#\Projects\Assignment 2\Assignment 2\Assignment 2\bin\Debug\netcoreapp3.1\Assignment 2.pdb
+D:\Learning To Code\C#\Projects\Assignment 2\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csproj.AssemblyReference.cache
+D:\Learning To Code\C#\Projects\Assignment 2\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning To Code\C#\Projects\Assignment 2\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.AssemblyInfoInputs.cache
+D:\Learning To Code\C#\Projects\Assignment 2\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.AssemblyInfo.cs
+D:\Learning To Code\C#\Projects\Assignment 2\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.csproj.CoreCompileInputs.cache
+D:\Learning To Code\C#\Projects\Assignment 2\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.dll
+D:\Learning To Code\C#\Projects\Assignment 2\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.pdb
+D:\Learning To Code\C#\Projects\Assignment 2\Assignment 2\Assignment 2\obj\Debug\netcoreapp3.1\Assignment 2.genruntimeconfig.cache
